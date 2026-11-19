@@ -1,0 +1,108 @@
+estoque/
+│
+├── categorias/
+|   ├── index.php
+|   ├── cadastrar.php
+|   ├── salvar.php
+|   ├── alterar.php
+|   ├── atualizar.php
+|   └── excluir.php
+|
+├── clientes/
+|   ├── index.php
+|   ├── cadastrar.php
+|   ├── salvar.php
+|   ├── alterar.php
+|   ├── atualizar.php
+|   └── excluir.php
+|
+├── compras/
+|   ├── index.php
+|   ├── consultar.php
+|   ├── salvar.php
+|   ├── itens.php
+|   └── nova.php
+|
+├── css/
+|   ├── estilo.css
+|
+├── fornecedores/
+|   ├── index.php
+|   ├── cadastrar.php
+|   ├── salvar.php
+|   ├── alterar.php
+|   ├── atualizar.php
+|   └── excluir.php
+|
+├── imagens/
+|
+├── js/
+|   ├── scripts.js
+|
+├── movimentacoes/
+|   ├── index.php
+|   ├── consultar.php
+|
+├── produtos/
+|   ├── index.php
+|   ├── cadastrar.php
+|   ├── estoque.php
+|   ├── salvar.php
+|   ├── alterar.php
+|   ├── atualizar.php
+|   └── excluir.php
+|
+├── relatorios/
+|   ├── clientes.php
+|   ├── compras.php
+|   ├── estoque.php
+|   ├── fornecedores.php
+|   └──vendas.php
+|   
+├── usuarios/
+|   ├── index.php
+|   ├── cadastrar.php
+|   ├── salvar.php
+|   ├── alterar.php
+|   ├── atualizar.php
+|   └── excluir.php
+|   
+├── vendas/
+|   ├── consultar.php    
+|   ├── index.php
+|   ├── itens.php
+|   ├── nova.php|   
+|   └── salvar.php
+|
+├── conexao.php
+├── index.php
+├── login.php
+├── logout.php
+├── menu.php
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
